@@ -4,7 +4,11 @@
     echo($name);
     echo($name1);
 
-    function name(String n) {
-        return n;
+    function name($n) {
+        return $n;
+    }
+
+    function add($a,$b) {
+        return $a+$b;
     }
 ?>
