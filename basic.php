@@ -1,5 +1,7 @@
 <?php
     $name = "HelloWorld";
+    $name1 = "hiiii"
     echo($name);
-    echo("hii");
+    echo($name1);
+
 ?>
