@@ -4,4 +4,7 @@
     echo($name);
     echo($name1);
 
+    function name(String n) {
+        return n;
+    }
 ?>
